@@ -10,7 +10,7 @@ E-mail: noilemax@gmail.com
 * Java - прошел весь курс Java Core на JavaRush
 * JavaScript - небольшая доработка существующих скриптов
 * Знание: `SQL`, `HTML`, `CSS`
-* Работал с: SVN; Git; WordPress; OpenCart; Magento; PrestaShop и др.
+* Работал с: API; SVN; Git; WordPress; OpenCart; Magento; PrestaShop; Intellij IDEA; Spring, RES Framework; VirtualBox; и др.
 
 ## Опыт
 ### Фрилансер  (2015 - до сих пор)  
