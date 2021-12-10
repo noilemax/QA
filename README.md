@@ -14,7 +14,7 @@ E-mail: noilemax@gmail.com
 
 ## Опыт
  ### Middle QA engineer в компании "BOXMODE" (boxmode.com)
-  **Все виды тестирования веб проектов
+  **Тестирования веб проекта
   
   * Рабтал c Jira
   * jenkins
