@@ -13,7 +13,18 @@ E-mail: noilemax@gmail.com
 * Работал с: API; SVN; Git; WordPress; OpenCart; Magento; PrestaShop; Intellij IDEA; Spring, RES Framework; VirtualBox; и др.
 
 ## Опыт
-### Фрилансер  (2015 - до сих пор)  
+ ### Middle QA engineer в компании "BOXMODE" (boxmode.com)
+  **Все виды тестирования веб проектов
+  
+  * Рабтал c Jira
+  * jenkins
+  * mantis
+  * testcaselab
+  * testlink
+  * Slack
+  * Большой опыт в удаленной работе и контроле выполнения задач
+  
+### Фрилансер  (2015 - 2020)  
  **Создание Магазинов, сайтов визиток, улучшение уже рабочих сайтов, графический дизайн**
 
   * Разработка сайтов(в основном на платформах WordPress, OpenCart, Magento,PrestaShop и др.)  
