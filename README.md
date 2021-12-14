@@ -13,7 +13,7 @@ E-mail: noilemax@gmail.com
 * Работал с: API; SVN; Git; WordPress; OpenCart; Magento; PrestaShop; Intellij IDEA; Spring, RES Framework; VirtualBox; и др.
 
 ## Опыт
-### Middle QA engineer в компании "BOXMODE" (boxmode.com)
+### Middle QA engineer в компании "BOXMODE" (boxmode.com)(2020 - 2022)
  **Тестирования веб проекта**
   
   * Рабтал c Jira
