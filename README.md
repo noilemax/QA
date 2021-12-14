@@ -32,11 +32,11 @@ E-mail: noilemax@gmail.com
 **Создание Магазинов, сайтов визиток, улучшение уже рабочих сайтов, графический дизайн**
 
   * Разработка сайтов(в основном на платформах WordPress, OpenCart, Magento,PrestaShop и др.)  
-  * https://solonext.ru/    
-  * https://fromfactory.ua/   
-  * http://estetmebli.com/  
-  * https://apolon.kz/ (около 10 сайтов с похожим содержимым и разными доменнами)    
-  * http://xamelion.net.ua/zaspasibo/  
+    * https://solonext.ru/    
+    * https://fromfactory.ua/   
+    * http://estetmebli.com/  
+    * https://apolon.kz/ (около 10 сайтов с похожим содержимым и разными доменнами)    
+    * http://xamelion.net.ua/zaspasibo/  
  
 ### Издательство «Новая Книга» (2006 - 2015)  
 [**Издательство Новая Книга**](https://nk.in.ua/)
@@ -52,7 +52,7 @@ E-mail: noilemax@gmail.com
     
 ## Образование
 * Винницкий национальный технический университет(дата окончания 2003)
-* Инженер по специальности компьютерные сети
+  * Инженер по специальности компьютерные сети
 * QAtestLab.com - курсы по тестированию ПО
 * Language school "Flash" - продолжаю учиться
 
