@@ -1,67 +1,67 @@
 # QA
-### Иваница Иван <Image src="avatar.png" align="right" width="200" height="200">
-Родился: 14.10.1981 (40)  
-Телефон: +38(097)716-67-02  
+### Ivan Ivanitsa <Image src="avatar.png" align="right" width="200" height="200">
+Born: October 14, 1981 (40)  
+Phone: +38(097)716-67-02  
 E-mail: noilemax@gmail.com  
-Место жительства: Винница, Украина  
+Place of residence: Vinnitsa, Ukraine  
 
-## Резюме
-### Профессиональные навыки:
-* Ручное тестирование веб-приложений
-* Web UI, API, cookies, отладка с помощью DevTools
-* Java - прошел весь курс Java Core на JavaRush
-* JavaScript - небольшая доработка существующих скриптов
-* Знание: `HTML`, `CSS`
-* Работал с: Jira; jenkins; mantis; testcaselab; testlink; SVN; Git; WordPress; OpenCart; Magento; PrestaShop; Intellij IDEA; Spring, RES Framework; VirtualBox; Slack; SQL; и др.
-* Корректировка и создание технической и тестовой документации: вики проекта, тест-кейсы, тест-планы, чек-листы, отчеты об ошибках;
-* Работал в составе команды Agile SCRUM;
+## Summary
+### Professional skills:
+* Manual testing of web applications
+* Web UI, API, cookies, debugging with DevTools
+* Java - took the entire Java Core course at JavaRush
+* JavaScript - small revision of existing scripts
+* Knowledge of: `HTML`, `CSS`
+* Worked with: Jira; jenkins; mantis; testcaselab; testlink; SVN; Git; WordPress; OpenCart; Magento; PrestaShop; Intellij IDEA; Spring, RES Framework; VirtualBox; Slack; SQL; etc.
+* Corrected and created technical and test documentation: project wikis, test cases, test plans, checklists, bug reports;
+* Worked as part of the Agile SCRUM team;
 
-## Опыт
-### Middle QA engineer(boxmode.com)(2020 - по настоящее время)
+## Experience
+### Middle QA engineer(boxmode.com)(2021-present)
  [**QA of website builder project**](https://boxmode.com)
   
-  * Работа в QA команде
-  * Функциональное, нефункциональное, регрессионное, исследовательское ручное тестирование веб-приложений;
-  * Создание всех видов документации
-  * Улучшил процесс разработки новых шаблонов. 
-  * Наладил взаимодействие дизайн команды, разработки и QA
-  * Доставка двух шаблонов на еженедельный релиз
-  * Большой опыт в удаленной работе и контроле выполнения задач
+  ## Work in QA team.
+  * Functional, non-functional, regression, exploratory manual testing of web applications;
+  * Created all kinds of documentation
+  * Improved the process of developing new templates. 
+  * Established interaction between the design team, development, and QA
+  * Delivered two templates for weekly release
+  * Extensive experience in working remotely and overseeing tasks
   
-### Фрилансер  (2015 - 2020)  
-**Создание Магазинов, сайтов визиток, улучшение уже рабочих сайтов, графический дизайн**
+### Freelancer (2015 - 2020).  
+**Building Shops, business card sites, improving already working sites, graphic design**.
 
-  * Разработка сайтов(в основном на платформах WordPress, OpenCart, Magento,PrestaShop и др.)  
+  *Site development (mostly on WordPress, OpenCart, Magento, PrestaShop platforms, etc.)  
     * https://solonext.ru/    
     * https://fromfactory.ua/   
     * http://estetmebli.com/  
-    * https://apolon.kz/ (около 10 сайтов с похожим содержимым и разными доменнами)    
+    * https://apolon.kz/ (about 10 sites with similar content and different domains)    
     * http://xamelion.net.ua/zaspasibo/  
  
-### Издательство «Новая Книга» (2006 - 2015)  
-[**Издательство Новая Книга**](https://nk.in.ua/)
+### New Book Publishers (2006 - 2015)  
+[**The New Book Publisher**](https://nk.in.ua/)
 
-  * Разработка и сопровождение сайта
-  * Системный администратор
+  * Site development and maintenance
+  * System administrator
  
-### ООО КМТ (2001 - 2004)
-  * Системный администратор
+### OOO KMT (2001 - 2004)
+  * System administrator
   
-### Инженерный центр ООО «Гарант»
-   * Системный администратор  
+### Engineering center LLC "Garant"
+   ## System administrator  
     
-## Образование
-* Винницкий национальный технический университет(дата окончания 2003)
-  * Инженер по специальности компьютерные сети
-* QAtestLab.com - курсы по тестированию ПО
-* Language school "Flash" - продолжаю учиться
+## Education
+## Vinnitsa National Technical University (graduation date 2003)
+  ## Engineer, computer networks
+* QAtestLab.com - software testing courses
+## Language school "Flash" - continuing education
 
-## Языковые навыки
-* Английский язык - B1(intermediate)
-* Русский - родной
-* Украинский - родной
+## Language skills
+* English - B1 (intermediate)
+English - B1(intermediate) * Russian - native
+## Ukrainian - native
 
-## Дополнительная информация
-**Хобби:** Чтение книг, путешествия, автомобили, фотографии, Фотошоп, Адоб Илюстратор, отдых на природе, планирую пойти на обучение по автоматизированному тестированию
+## Additional information
+** Hobbies: ** Reading books, traveling, cars, photos, Photoshop, Adobe Illustrator, picnics, planning to take a course on computer-aided testing
 
-**Личные качества:** инициативность, ответственность, умение работать в команде, хорошая обучаемость, общительный, коммуникабельность
+**Personal qualities:** Initiative, responsibility, ability to work in a team, good learning ability, sociable, communicative
