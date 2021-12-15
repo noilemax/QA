@@ -29,14 +29,15 @@ Place of residence: Vinnitsa, Ukraine
   * Extensive experience in working remotely and overseeing tasks
   
 ### Freelancer (2015 - 2020).  
-**Building Shops, business card sites, improving already working sites, graphic design**.
+**Creating stores, online business cards, testing sites, improving existing sites, graphic design**
 
   * Site development (mostly on WordPress, OpenCart, Magento, PrestaShop platforms, etc.)  
   * https://solonext.ru/    
   * https://fromfactory.ua/   
   * http://estetmebli.com/  
   * https://apolon.kz/ (about 10 sites with similar content and different domains)    
-  * http://xamelion.net.ua/zaspasibo/  
+  * http://xamelion.net.ua/zaspasibo/
+  * Functional, non-functional, regression manual testing of web applications;
  
 ### New Book Publishers (2006 - 2015)  
 [**The New Book Publisher**](https://nk.in.ua/)
