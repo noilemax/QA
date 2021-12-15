@@ -20,7 +20,7 @@ Place of residence: Vinnitsa, Ukraine
 ### Middle QA engineer(boxmode.com)(2021-present)
  [**QA of website builder project**](https://boxmode.com)
   
-  ## Work in QA team.
+  * Work in QA team.
   * Functional, non-functional, regression, exploratory manual testing of web applications;
   * Created all kinds of documentation
   * Improved the process of developing new templates. 
@@ -31,12 +31,12 @@ Place of residence: Vinnitsa, Ukraine
 ### Freelancer (2015 - 2020).  
 **Building Shops, business card sites, improving already working sites, graphic design**.
 
-  *Site development (mostly on WordPress, OpenCart, Magento, PrestaShop platforms, etc.)  
-    * https://solonext.ru/    
-    * https://fromfactory.ua/   
-    * http://estetmebli.com/  
-    * https://apolon.kz/ (about 10 sites with similar content and different domains)    
-    * http://xamelion.net.ua/zaspasibo/  
+  * Site development (mostly on WordPress, OpenCart, Magento, PrestaShop platforms, etc.)  
+  * https://solonext.ru/    
+  * https://fromfactory.ua/   
+  * http://estetmebli.com/  
+  * https://apolon.kz/ (about 10 sites with similar content and different domains)    
+  * http://xamelion.net.ua/zaspasibo/  
  
 ### New Book Publishers (2006 - 2015)  
 [**The New Book Publisher**](https://nk.in.ua/)
@@ -48,20 +48,20 @@ Place of residence: Vinnitsa, Ukraine
   * System administrator
   
 ### Engineering center LLC "Garant"
-   ## System administrator  
+   * System administrator  
     
 ## Education
-## Vinnitsa National Technical University (graduation date 2003)
-  ## Engineer, computer networks
+* Vinnitsa National Technical University (graduation date 2003)
+* Engineer, computer networks
 * QAtestLab.com - software testing courses
-## Language school "Flash" - continuing education
+* Language school "Flash" - continuing education
 
 ## Language skills
-* English - B1 (intermediate)
-English - B1(intermediate) * Russian - native
-## Ukrainian - native
+* English - B1(intermediate) 
+* Russian - native
+* Ukrainian - native
 
 ## Additional information
-** Hobbies: ** Reading books, traveling, cars, photos, Photoshop, Adobe Illustrator, picnics, planning to take a course on computer-aided testing
+**Hobbies:** Reading books, traveling, cars, photos, Photoshop, Adobe Illustrator, picnics, planning to take a course on computer-aided testing
 
 **Personal qualities:** Initiative, responsibility, ability to work in a team, good learning ability, sociable, communicative
