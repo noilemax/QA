@@ -17,7 +17,7 @@ Place of residence: Vinnitsa, Ukraine
 * Worked as part of the Agile SCRUM team;
 
 ## Experience
-### Middle QA engineer(boxmode.com)(2021-present)
+### QA engineer(boxmode.com)(2021-present)
  [**QA of website builder project**](https://boxmode.com)
   
   * Work in QA team.
