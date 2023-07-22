@@ -1,29 +1,40 @@
 # QA
 ### Ivan Ivanitsa <Image src="avatar.png" align="right" width="200" height="200">
 Born: October 14, 1981 (40)  
-Phone: +38(097)716-67-02  
+Phone: +38(098)355-22-77  
 E-mail: noilemax@gmail.com  
 Place of residence: Vinnitsa, Ukraine  
 
 ## Summary
 ### Professional skills:
-* Manual testing of web applications
+* Manual testing of mob/web applications
 * Web UI, API, cookies, debugging with DevTools
-* Java - took the entire Java Core course at JavaRush
-* JavaScript - small revision of existing scripts
+* Mob app, debugging on real devices
+* Java - often used Silenium to simplify testing
+* JavaScript - writing scripts/snippets for fast registration, fast payment, finalizing existing scripts
 * Knowledge of: `HTML`, `CSS`
-* Worked with: Jira; jenkins; mantis; testcaselab; testlink; SVN; Git; WordPress; OpenCart; Magento; PrestaShop; Intellij IDEA; Spring, RES Framework; VirtualBox; Slack; SQL; etc.
+* Worked with: Jira; Slack; Postman; Intellij IDEA; jenkins; mantis; testcaselab; testlink; SVN; Git; VirtualBox; SQL(with googl); WordPress; OpenCart; Magento; PrestaShop; Spring, RES Framework; Altair GraphQL Client; Apollo Client Devtools,  etc.
+* Debug devise with - inspect(inspect.dev), Android Debug Bridge, Android Studio, Vysor, BrowserStack
 * Corrected and created technical and test documentation: project wikis, test cases, test plans, checklists, bug reports;
-* Worked as part of the Agile SCRUM team;
+* Worked as part of the Agile SCRUM/KANBAN team;
 
 ## Experience
+### QA engineer(togethernetworks.com)(2022-present)
+  
+  * Work in front and RM QA team
+  * Testing in browsers and on real devices with debugging
+  * Created all kinds of documentation
+  * Working in a very large team
+  * Organization of joint tests by different teams
+  * Testing on a large number of devices and different localizations
+
 ### QA engineer(boxmode.com)(2021-present)
  [**QA of website builder project**](https://boxmode.com)
   
-  * Work in QA team.
+  * Work in QA team
   * Functional, non-functional, regression, exploratory manual testing of web applications;
   * Created all kinds of documentation
-  * Improved the process of developing new templates. 
+  * Improved the process of developing new templates 
   * Established interaction between the design team, development, and QA
   * Delivered two templates for weekly release
   * Extensive experience in working remotely and overseeing tasks
@@ -55,10 +66,11 @@ Place of residence: Vinnitsa, Ukraine
 * Vinnitsa National Technical University (graduation date 2003)
 * Engineer, computer networks
 * QAtestLab.com - software testing courses
-* Language school "Flash" - continuing education
+* JavaRush - took the entire Java Core course
+* Language school "Flash"
 
 ## Language skills
-* English - B1(intermediate) 
+* English - C1(Advanced)
 * Russian - native
 * Ukrainian - native
 
