@@ -1,6 +1,6 @@
 # QA
 ### Ivan Ivanitsa <Image src="avatar.png" align="right" width="200" height="200">
-Born: October 14, 1981 (40)  
+Born: October 14, 1981  
 Phone: +38(098)355-22-77  
 E-mail: noilemax@gmail.com  
 Place of residence: Vinnitsa, Ukraine  
